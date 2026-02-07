@@ -43,7 +43,7 @@ Flash configuration:
 <h2 > Source Code</h2>
 
 ```c
-#include "stm32f103xb.h"
+#include "stm32f1xx.h"
 
 void delay(uint32_t count);
 
