@@ -1,4 +1,4 @@
-#include "stm32f103xb.h" //use for register base programming
+#include "stm32f1xx.h"
 
 void delay(uint32_t count); // simple delay function define
 
